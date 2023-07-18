@@ -1,0 +1,17 @@
+body {
+background-color:#FC7300 ;
+display: flex;
+}
+
+nav {
+  background-color: #1F8A70;
+}
+
+main {
+  background-color: #00425A;
+}
+
+footer {
+  color: #181823;
+  background-color: #EFF5F5;
+}
