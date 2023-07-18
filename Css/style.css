@@ -1,14 +1,26 @@
 body {
 background-color:#FC7300 ;
-display: flex;
+width: 100%;
+/* display: flex; */
 }
 
-nav {
-  background-color: #1F8A70;
+.menu {
+  background-color: #00425A;
+  display: block;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+.menu ul li {
+  display: inline-block;
+  list-style: none;
+  padding: 20px 45px;
 }
 
 main {
-  background-color: #00425A;
+  background-color: #1F8A70;
 }
 
 footer {
