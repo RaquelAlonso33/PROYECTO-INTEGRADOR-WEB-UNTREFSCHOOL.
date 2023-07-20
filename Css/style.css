@@ -13,7 +13,7 @@ margin: 0 auto;
 
  .portada {
   background-image: url(/Img/foto-colegio.jpg);
- background-size: 100% 120%;
+  background-size: 100% 120%;
  }
  .portada p {
   text-align: center;
@@ -24,7 +24,6 @@ margin: 0 auto;
 }
 
 .menu {
-  /* background-color: #68b4da; */
   background-color: #EFF5F5;
   font-family: 'Belanosima', sans-serif;
   width: 100%;
