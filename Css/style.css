@@ -11,6 +11,11 @@ margin: 0 auto;
 /* Paleta de colores:
  #FC7300 , #1F8A70 , #00425A , #181823, #EFF5F5 */
 
+ .portada {
+  background-image: url(/Img/foto-colegio.jpg);
+ background-size: 100% 120%;
+ }
+
 .menu {
   /* background-color: #68b4da; */
   background-color: #EFF5F5;
