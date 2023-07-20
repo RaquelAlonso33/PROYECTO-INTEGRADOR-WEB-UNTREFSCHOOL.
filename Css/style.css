@@ -103,7 +103,7 @@ p {
 }
 
 .tercera-seccion img:hover {
-  transition: 3s;
+  transition: 1s;
   opacity: 0.3;
 }
 /* FOOTER  */
