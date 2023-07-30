@@ -12,7 +12,7 @@ margin: 0 auto;
  #FC7300 , #1F8A70 , #00425A , #181823, #EFF5F5 */
 
  .portada {
-  background-image: url(/Img/foto-colegio.jpg);
+  background-image: url(/img/foto-colegio.jpg);
   background-size: 100% 120%;
  }
  .portada p {
